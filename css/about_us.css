@@ -197,16 +197,10 @@ nav ul li:hover{
 
 }
 .content-left__box{
-  width: 50%;
+  width: 100%;
   min-height: 80vh;
   height: auto;
   float: left;
-}
-.content-right__box{
-  width: 50%;
-  min-height: 80vh;
-  height: auto;
-  float: right;
 }
 .content-left__box h2{
   margin: 30px 20px 35px 30px;
