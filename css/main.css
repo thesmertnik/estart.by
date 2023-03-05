@@ -614,7 +614,8 @@ nav ul li:hover{
   background: #202c45;
   text-align: justify;
   width: 400px;
-  height: 60px;
+  min-height: 60px;
+  height: auto;
 }
 
 .card .card-title h2 {
